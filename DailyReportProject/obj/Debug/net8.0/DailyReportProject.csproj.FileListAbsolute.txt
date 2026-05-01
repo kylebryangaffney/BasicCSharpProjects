@@ -1,0 +1,14 @@
+C:\Users\kyleb\BasicCSharpProjects\DailyReportProject\bin\Debug\net8.0\DailyReportProject.exe
+C:\Users\kyleb\BasicCSharpProjects\DailyReportProject\bin\Debug\net8.0\DailyReportProject.deps.json
+C:\Users\kyleb\BasicCSharpProjects\DailyReportProject\bin\Debug\net8.0\DailyReportProject.runtimeconfig.json
+C:\Users\kyleb\BasicCSharpProjects\DailyReportProject\bin\Debug\net8.0\DailyReportProject.dll
+C:\Users\kyleb\BasicCSharpProjects\DailyReportProject\bin\Debug\net8.0\DailyReportProject.pdb
+C:\Users\kyleb\BasicCSharpProjects\DailyReportProject\obj\Debug\net8.0\DailyReportProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyleb\BasicCSharpProjects\DailyReportProject\obj\Debug\net8.0\DailyReportProject.AssemblyInfoInputs.cache
+C:\Users\kyleb\BasicCSharpProjects\DailyReportProject\obj\Debug\net8.0\DailyReportProject.AssemblyInfo.cs
+C:\Users\kyleb\BasicCSharpProjects\DailyReportProject\obj\Debug\net8.0\DailyReportProject.csproj.CoreCompileInputs.cache
+C:\Users\kyleb\BasicCSharpProjects\DailyReportProject\obj\Debug\net8.0\DailyReportProject.dll
+C:\Users\kyleb\BasicCSharpProjects\DailyReportProject\obj\Debug\net8.0\refint\DailyReportProject.dll
+C:\Users\kyleb\BasicCSharpProjects\DailyReportProject\obj\Debug\net8.0\DailyReportProject.pdb
+C:\Users\kyleb\BasicCSharpProjects\DailyReportProject\obj\Debug\net8.0\DailyReportProject.genruntimeconfig.cache
+C:\Users\kyleb\BasicCSharpProjects\DailyReportProject\obj\Debug\net8.0\ref\DailyReportProject.dll
