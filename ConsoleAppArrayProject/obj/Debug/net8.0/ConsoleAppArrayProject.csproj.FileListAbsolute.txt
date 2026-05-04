@@ -1,0 +1,5 @@
+C:\Users\kyleb\BasicCSharpProjects\ConsoleAppArrayProject\obj\Debug\net8.0\ConsoleAppArrayProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyleb\BasicCSharpProjects\ConsoleAppArrayProject\obj\Debug\net8.0\ConsoleAppArrayProject.AssemblyInfoInputs.cache
+C:\Users\kyleb\BasicCSharpProjects\ConsoleAppArrayProject\obj\Debug\net8.0\ConsoleAppArrayProject.AssemblyInfo.cs
+C:\Users\kyleb\BasicCSharpProjects\ConsoleAppArrayProject\obj\Debug\net8.0\ConsoleAppArrayProject.csproj.CoreCompileInputs.cache
+C:\Users\kyleb\BasicCSharpProjects\ConsoleAppArrayProject\obj\Debug\net8.0\ConsoleAppArrayProject.sourcelink.json
