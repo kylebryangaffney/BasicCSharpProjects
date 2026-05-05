@@ -1,0 +1,15 @@
+C:\Users\kyleb\BasicCSharpProjects\IterationProject\bin\Debug\net8.0\IterationProject.exe
+C:\Users\kyleb\BasicCSharpProjects\IterationProject\bin\Debug\net8.0\IterationProject.deps.json
+C:\Users\kyleb\BasicCSharpProjects\IterationProject\bin\Debug\net8.0\IterationProject.runtimeconfig.json
+C:\Users\kyleb\BasicCSharpProjects\IterationProject\bin\Debug\net8.0\IterationProject.dll
+C:\Users\kyleb\BasicCSharpProjects\IterationProject\bin\Debug\net8.0\IterationProject.pdb
+C:\Users\kyleb\BasicCSharpProjects\IterationProject\obj\Debug\net8.0\IterationProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyleb\BasicCSharpProjects\IterationProject\obj\Debug\net8.0\IterationProject.AssemblyInfoInputs.cache
+C:\Users\kyleb\BasicCSharpProjects\IterationProject\obj\Debug\net8.0\IterationProject.AssemblyInfo.cs
+C:\Users\kyleb\BasicCSharpProjects\IterationProject\obj\Debug\net8.0\IterationProject.csproj.CoreCompileInputs.cache
+C:\Users\kyleb\BasicCSharpProjects\IterationProject\obj\Debug\net8.0\IterationProject.sourcelink.json
+C:\Users\kyleb\BasicCSharpProjects\IterationProject\obj\Debug\net8.0\IterationProject.dll
+C:\Users\kyleb\BasicCSharpProjects\IterationProject\obj\Debug\net8.0\refint\IterationProject.dll
+C:\Users\kyleb\BasicCSharpProjects\IterationProject\obj\Debug\net8.0\IterationProject.pdb
+C:\Users\kyleb\BasicCSharpProjects\IterationProject\obj\Debug\net8.0\IterationProject.genruntimeconfig.cache
+C:\Users\kyleb\BasicCSharpProjects\IterationProject\obj\Debug\net8.0\ref\IterationProject.dll
