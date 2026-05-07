@@ -1,0 +1,15 @@
+C:\Users\kyleb\BasicCSharpProjects\ClassSubmissionProject\bin\Debug\net8.0\ClassSubmissionProject.exe
+C:\Users\kyleb\BasicCSharpProjects\ClassSubmissionProject\bin\Debug\net8.0\ClassSubmissionProject.deps.json
+C:\Users\kyleb\BasicCSharpProjects\ClassSubmissionProject\bin\Debug\net8.0\ClassSubmissionProject.runtimeconfig.json
+C:\Users\kyleb\BasicCSharpProjects\ClassSubmissionProject\bin\Debug\net8.0\ClassSubmissionProject.dll
+C:\Users\kyleb\BasicCSharpProjects\ClassSubmissionProject\bin\Debug\net8.0\ClassSubmissionProject.pdb
+C:\Users\kyleb\BasicCSharpProjects\ClassSubmissionProject\obj\Debug\net8.0\ClassSubmissionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyleb\BasicCSharpProjects\ClassSubmissionProject\obj\Debug\net8.0\ClassSubmissionProject.AssemblyInfoInputs.cache
+C:\Users\kyleb\BasicCSharpProjects\ClassSubmissionProject\obj\Debug\net8.0\ClassSubmissionProject.AssemblyInfo.cs
+C:\Users\kyleb\BasicCSharpProjects\ClassSubmissionProject\obj\Debug\net8.0\ClassSubmissionProject.csproj.CoreCompileInputs.cache
+C:\Users\kyleb\BasicCSharpProjects\ClassSubmissionProject\obj\Debug\net8.0\ClassSubmissionProject.sourcelink.json
+C:\Users\kyleb\BasicCSharpProjects\ClassSubmissionProject\obj\Debug\net8.0\ClassSubmissionProject.dll
+C:\Users\kyleb\BasicCSharpProjects\ClassSubmissionProject\obj\Debug\net8.0\refint\ClassSubmissionProject.dll
+C:\Users\kyleb\BasicCSharpProjects\ClassSubmissionProject\obj\Debug\net8.0\ClassSubmissionProject.pdb
+C:\Users\kyleb\BasicCSharpProjects\ClassSubmissionProject\obj\Debug\net8.0\ClassSubmissionProject.genruntimeconfig.cache
+C:\Users\kyleb\BasicCSharpProjects\ClassSubmissionProject\obj\Debug\net8.0\ref\ClassSubmissionProject.dll

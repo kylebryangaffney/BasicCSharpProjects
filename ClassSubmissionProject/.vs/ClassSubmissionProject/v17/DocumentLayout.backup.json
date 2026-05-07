@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kyleb\\BasicCSharpProjects\\ClassSubmissionProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B70442-ABF7-42D7-BAD8-25AA7E128EED}|ClassSubmissionProject.csproj|c:\\users\\kyleb\\basiccsharpprojects\\classsubmissionproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B70442-ABF7-42D7-BAD8-25AA7E128EED}|ClassSubmissionProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B70442-ABF7-42D7-BAD8-25AA7E128EED}|ClassSubmissionProject.csproj|c:\\users\\kyleb\\basiccsharpprojects\\classsubmissionproject\\mathmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B70442-ABF7-42D7-BAD8-25AA7E128EED}|ClassSubmissionProject.csproj|solutionrelative:mathmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathMachine.cs",
+              "DocumentMoniker": "C:\\Users\\kyleb\\BasicCSharpProjects\\ClassSubmissionProject\\MathMachine.cs",
+              "RelativeDocumentMoniker": "MathMachine.cs",
+              "ToolTip": "C:\\Users\\kyleb\\BasicCSharpProjects\\ClassSubmissionProject\\MathMachine.cs*",
+              "RelativeToolTip": "MathMachine.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T21:18:13.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kyleb\\BasicCSharpProjects\\ClassSubmissionProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kyleb\\BasicCSharpProjects\\ClassSubmissionProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T21:15:33.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
