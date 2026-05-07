@@ -1,0 +1,15 @@
+C:\Users\kyleb\BasicCSharpProjects\MethodsAndObjectsProject\bin\Debug\net8.0\MethodsAndObjectsProject.exe
+C:\Users\kyleb\BasicCSharpProjects\MethodsAndObjectsProject\bin\Debug\net8.0\MethodsAndObjectsProject.deps.json
+C:\Users\kyleb\BasicCSharpProjects\MethodsAndObjectsProject\bin\Debug\net8.0\MethodsAndObjectsProject.runtimeconfig.json
+C:\Users\kyleb\BasicCSharpProjects\MethodsAndObjectsProject\bin\Debug\net8.0\MethodsAndObjectsProject.dll
+C:\Users\kyleb\BasicCSharpProjects\MethodsAndObjectsProject\bin\Debug\net8.0\MethodsAndObjectsProject.pdb
+C:\Users\kyleb\BasicCSharpProjects\MethodsAndObjectsProject\obj\Debug\net8.0\MethodsAndObjectsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyleb\BasicCSharpProjects\MethodsAndObjectsProject\obj\Debug\net8.0\MethodsAndObjectsProject.AssemblyInfoInputs.cache
+C:\Users\kyleb\BasicCSharpProjects\MethodsAndObjectsProject\obj\Debug\net8.0\MethodsAndObjectsProject.AssemblyInfo.cs
+C:\Users\kyleb\BasicCSharpProjects\MethodsAndObjectsProject\obj\Debug\net8.0\MethodsAndObjectsProject.csproj.CoreCompileInputs.cache
+C:\Users\kyleb\BasicCSharpProjects\MethodsAndObjectsProject\obj\Debug\net8.0\MethodsAndObjectsProject.sourcelink.json
+C:\Users\kyleb\BasicCSharpProjects\MethodsAndObjectsProject\obj\Debug\net8.0\MethodsAndObjectsProject.dll
+C:\Users\kyleb\BasicCSharpProjects\MethodsAndObjectsProject\obj\Debug\net8.0\refint\MethodsAndObjectsProject.dll
+C:\Users\kyleb\BasicCSharpProjects\MethodsAndObjectsProject\obj\Debug\net8.0\MethodsAndObjectsProject.pdb
+C:\Users\kyleb\BasicCSharpProjects\MethodsAndObjectsProject\obj\Debug\net8.0\MethodsAndObjectsProject.genruntimeconfig.cache
+C:\Users\kyleb\BasicCSharpProjects\MethodsAndObjectsProject\obj\Debug\net8.0\ref\MethodsAndObjectsProject.dll

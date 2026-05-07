@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kyleb\\BasicCSharpProjects\\MethodsAndObjectsProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B475B50-47FF-47F8-82FB-7F08CEEF7A2C}|MethodsAndObjectsProject.csproj|c:\\users\\kyleb\\basiccsharpprojects\\methodsandobjectsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B475B50-47FF-47F8-82FB-7F08CEEF7A2C}|MethodsAndObjectsProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B475B50-47FF-47F8-82FB-7F08CEEF7A2C}|MethodsAndObjectsProject.csproj|c:\\users\\kyleb\\basiccsharpprojects\\methodsandobjectsproject\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B475B50-47FF-47F8-82FB-7F08CEEF7A2C}|MethodsAndObjectsProject.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B475B50-47FF-47F8-82FB-7F08CEEF7A2C}|MethodsAndObjectsProject.csproj|c:\\users\\kyleb\\basiccsharpprojects\\methodsandobjectsproject\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B475B50-47FF-47F8-82FB-7F08CEEF7A2C}|MethodsAndObjectsProject.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\kyleb\\BasicCSharpProjects\\MethodsAndObjectsProject\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\kyleb\\BasicCSharpProjects\\MethodsAndObjectsProject\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T22:31:38.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\kyleb\\BasicCSharpProjects\\MethodsAndObjectsProject\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\kyleb\\BasicCSharpProjects\\MethodsAndObjectsProject\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T22:29:56.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kyleb\\BasicCSharpProjects\\MethodsAndObjectsProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kyleb\\BasicCSharpProjects\\MethodsAndObjectsProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T22:29:00.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
