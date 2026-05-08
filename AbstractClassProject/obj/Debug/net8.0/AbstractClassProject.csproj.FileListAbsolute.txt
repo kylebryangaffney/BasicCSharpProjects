@@ -1,0 +1,15 @@
+C:\Users\kyleb\BasicCSharpProjects\AbstractClassProject\bin\Debug\net8.0\AbstractClassProject.exe
+C:\Users\kyleb\BasicCSharpProjects\AbstractClassProject\bin\Debug\net8.0\AbstractClassProject.deps.json
+C:\Users\kyleb\BasicCSharpProjects\AbstractClassProject\bin\Debug\net8.0\AbstractClassProject.runtimeconfig.json
+C:\Users\kyleb\BasicCSharpProjects\AbstractClassProject\bin\Debug\net8.0\AbstractClassProject.dll
+C:\Users\kyleb\BasicCSharpProjects\AbstractClassProject\bin\Debug\net8.0\AbstractClassProject.pdb
+C:\Users\kyleb\BasicCSharpProjects\AbstractClassProject\obj\Debug\net8.0\AbstractClassProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyleb\BasicCSharpProjects\AbstractClassProject\obj\Debug\net8.0\AbstractClassProject.AssemblyInfoInputs.cache
+C:\Users\kyleb\BasicCSharpProjects\AbstractClassProject\obj\Debug\net8.0\AbstractClassProject.AssemblyInfo.cs
+C:\Users\kyleb\BasicCSharpProjects\AbstractClassProject\obj\Debug\net8.0\AbstractClassProject.csproj.CoreCompileInputs.cache
+C:\Users\kyleb\BasicCSharpProjects\AbstractClassProject\obj\Debug\net8.0\AbstractClassProject.sourcelink.json
+C:\Users\kyleb\BasicCSharpProjects\AbstractClassProject\obj\Debug\net8.0\AbstractClassProject.dll
+C:\Users\kyleb\BasicCSharpProjects\AbstractClassProject\obj\Debug\net8.0\refint\AbstractClassProject.dll
+C:\Users\kyleb\BasicCSharpProjects\AbstractClassProject\obj\Debug\net8.0\AbstractClassProject.pdb
+C:\Users\kyleb\BasicCSharpProjects\AbstractClassProject\obj\Debug\net8.0\AbstractClassProject.genruntimeconfig.cache
+C:\Users\kyleb\BasicCSharpProjects\AbstractClassProject\obj\Debug\net8.0\ref\AbstractClassProject.dll
