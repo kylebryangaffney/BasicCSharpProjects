@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\kyleb\\BasicCSharpProjects\\AbstractClassProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59846362-EFB2-49BA-8722-4ADCB17A6114}|AbstractClassProject.csproj|c:\\users\\kyleb\\basiccsharpprojects\\abstractclassproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59846362-EFB2-49BA-8722-4ADCB17A6114}|AbstractClassProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{59846362-EFB2-49BA-8722-4ADCB17A6114}|AbstractClassProject.csproj|c:\\users\\kyleb\\basiccsharpprojects\\abstractclassproject\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59846362-EFB2-49BA-8722-4ADCB17A6114}|AbstractClassProject.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59846362-EFB2-49BA-8722-4ADCB17A6114}|AbstractClassProject.csproj|c:\\users\\kyleb\\basiccsharpprojects\\abstractclassproject\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59846362-EFB2-49BA-8722-4ADCB17A6114}|AbstractClassProject.csproj|solutionrelative:iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59846362-EFB2-49BA-8722-4ADCB17A6114}|AbstractClassProject.csproj|c:\\users\\kyleb\\basiccsharpprojects\\abstractclassproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59846362-EFB2-49BA-8722-4ADCB17A6114}|AbstractClassProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59846362-EFB2-49BA-8722-4ADCB17A6114}|AbstractClassProject.csproj|c:\\users\\kyleb\\basiccsharpprojects\\abstractclassproject\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,43 +26,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IQuittable.cs",
+              "DocumentMoniker": "C:\\Users\\kyleb\\BasicCSharpProjects\\AbstractClassProject\\IQuittable.cs",
+              "RelativeDocumentMoniker": "IQuittable.cs",
+              "ToolTip": "C:\\Users\\kyleb\\BasicCSharpProjects\\AbstractClassProject\\IQuittable.cs",
+              "RelativeToolTip": "IQuittable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T22:09:11.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\kyleb\\BasicCSharpProjects\\AbstractClassProject\\Employee.cs",
               "RelativeDocumentMoniker": "Employee.cs",
               "ToolTip": "C:\\Users\\kyleb\\BasicCSharpProjects\\AbstractClassProject\\Employee.cs",
               "RelativeToolTip": "Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-08T01:30:32.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\kyleb\\BasicCSharpProjects\\AbstractClassProject\\Person.cs",
               "RelativeDocumentMoniker": "Person.cs",
               "ToolTip": "C:\\Users\\kyleb\\BasicCSharpProjects\\AbstractClassProject\\Person.cs",
               "RelativeToolTip": "Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T01:29:07.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T01:29:07.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kyleb\\BasicCSharpProjects\\AbstractClassProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\kyleb\\BasicCSharpProjects\\AbstractClassProject\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-08T01:22:27.219Z",
               "EditorCaption": ""
