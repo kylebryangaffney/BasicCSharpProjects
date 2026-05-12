@@ -1,0 +1,15 @@
+C:\Users\kyleb\BasicCSharpProjects\ParametersAssignment\bin\Debug\net8.0\ParametersAssignment.exe
+C:\Users\kyleb\BasicCSharpProjects\ParametersAssignment\bin\Debug\net8.0\ParametersAssignment.deps.json
+C:\Users\kyleb\BasicCSharpProjects\ParametersAssignment\bin\Debug\net8.0\ParametersAssignment.runtimeconfig.json
+C:\Users\kyleb\BasicCSharpProjects\ParametersAssignment\bin\Debug\net8.0\ParametersAssignment.dll
+C:\Users\kyleb\BasicCSharpProjects\ParametersAssignment\bin\Debug\net8.0\ParametersAssignment.pdb
+C:\Users\kyleb\BasicCSharpProjects\ParametersAssignment\obj\Debug\net8.0\ParametersAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyleb\BasicCSharpProjects\ParametersAssignment\obj\Debug\net8.0\ParametersAssignment.AssemblyInfoInputs.cache
+C:\Users\kyleb\BasicCSharpProjects\ParametersAssignment\obj\Debug\net8.0\ParametersAssignment.AssemblyInfo.cs
+C:\Users\kyleb\BasicCSharpProjects\ParametersAssignment\obj\Debug\net8.0\ParametersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\kyleb\BasicCSharpProjects\ParametersAssignment\obj\Debug\net8.0\ParametersAssignment.sourcelink.json
+C:\Users\kyleb\BasicCSharpProjects\ParametersAssignment\obj\Debug\net8.0\ParametersAssignment.dll
+C:\Users\kyleb\BasicCSharpProjects\ParametersAssignment\obj\Debug\net8.0\refint\ParametersAssignment.dll
+C:\Users\kyleb\BasicCSharpProjects\ParametersAssignment\obj\Debug\net8.0\ParametersAssignment.pdb
+C:\Users\kyleb\BasicCSharpProjects\ParametersAssignment\obj\Debug\net8.0\ParametersAssignment.genruntimeconfig.cache
+C:\Users\kyleb\BasicCSharpProjects\ParametersAssignment\obj\Debug\net8.0\ref\ParametersAssignment.dll
