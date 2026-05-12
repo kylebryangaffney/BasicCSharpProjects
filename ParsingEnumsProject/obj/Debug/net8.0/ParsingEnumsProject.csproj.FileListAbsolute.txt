@@ -1,0 +1,15 @@
+C:\Users\kyleb\BasicCSharpProjects\ParsingEnumsProject\bin\Debug\net8.0\ParsingEnumsProject.exe
+C:\Users\kyleb\BasicCSharpProjects\ParsingEnumsProject\bin\Debug\net8.0\ParsingEnumsProject.deps.json
+C:\Users\kyleb\BasicCSharpProjects\ParsingEnumsProject\bin\Debug\net8.0\ParsingEnumsProject.runtimeconfig.json
+C:\Users\kyleb\BasicCSharpProjects\ParsingEnumsProject\bin\Debug\net8.0\ParsingEnumsProject.dll
+C:\Users\kyleb\BasicCSharpProjects\ParsingEnumsProject\bin\Debug\net8.0\ParsingEnumsProject.pdb
+C:\Users\kyleb\BasicCSharpProjects\ParsingEnumsProject\obj\Debug\net8.0\ParsingEnumsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyleb\BasicCSharpProjects\ParsingEnumsProject\obj\Debug\net8.0\ParsingEnumsProject.AssemblyInfoInputs.cache
+C:\Users\kyleb\BasicCSharpProjects\ParsingEnumsProject\obj\Debug\net8.0\ParsingEnumsProject.AssemblyInfo.cs
+C:\Users\kyleb\BasicCSharpProjects\ParsingEnumsProject\obj\Debug\net8.0\ParsingEnumsProject.csproj.CoreCompileInputs.cache
+C:\Users\kyleb\BasicCSharpProjects\ParsingEnumsProject\obj\Debug\net8.0\ParsingEnumsProject.sourcelink.json
+C:\Users\kyleb\BasicCSharpProjects\ParsingEnumsProject\obj\Debug\net8.0\ParsingEnumsProject.dll
+C:\Users\kyleb\BasicCSharpProjects\ParsingEnumsProject\obj\Debug\net8.0\refint\ParsingEnumsProject.dll
+C:\Users\kyleb\BasicCSharpProjects\ParsingEnumsProject\obj\Debug\net8.0\ParsingEnumsProject.pdb
+C:\Users\kyleb\BasicCSharpProjects\ParsingEnumsProject\obj\Debug\net8.0\ParsingEnumsProject.genruntimeconfig.cache
+C:\Users\kyleb\BasicCSharpProjects\ParsingEnumsProject\obj\Debug\net8.0\ref\ParsingEnumsProject.dll
