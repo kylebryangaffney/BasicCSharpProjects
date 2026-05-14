@@ -1,0 +1,15 @@
+C:\Users\kyleb\BasicCSharpProjects\LamdaAssignmentProject\bin\Debug\net8.0\LamdaAssignmentProject.exe
+C:\Users\kyleb\BasicCSharpProjects\LamdaAssignmentProject\bin\Debug\net8.0\LamdaAssignmentProject.deps.json
+C:\Users\kyleb\BasicCSharpProjects\LamdaAssignmentProject\bin\Debug\net8.0\LamdaAssignmentProject.runtimeconfig.json
+C:\Users\kyleb\BasicCSharpProjects\LamdaAssignmentProject\bin\Debug\net8.0\LamdaAssignmentProject.dll
+C:\Users\kyleb\BasicCSharpProjects\LamdaAssignmentProject\bin\Debug\net8.0\LamdaAssignmentProject.pdb
+C:\Users\kyleb\BasicCSharpProjects\LamdaAssignmentProject\obj\Debug\net8.0\LamdaAssignmentProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyleb\BasicCSharpProjects\LamdaAssignmentProject\obj\Debug\net8.0\LamdaAssignmentProject.AssemblyInfoInputs.cache
+C:\Users\kyleb\BasicCSharpProjects\LamdaAssignmentProject\obj\Debug\net8.0\LamdaAssignmentProject.AssemblyInfo.cs
+C:\Users\kyleb\BasicCSharpProjects\LamdaAssignmentProject\obj\Debug\net8.0\LamdaAssignmentProject.csproj.CoreCompileInputs.cache
+C:\Users\kyleb\BasicCSharpProjects\LamdaAssignmentProject\obj\Debug\net8.0\LamdaAssignmentProject.sourcelink.json
+C:\Users\kyleb\BasicCSharpProjects\LamdaAssignmentProject\obj\Debug\net8.0\LamdaAssignmentProject.dll
+C:\Users\kyleb\BasicCSharpProjects\LamdaAssignmentProject\obj\Debug\net8.0\refint\LamdaAssignmentProject.dll
+C:\Users\kyleb\BasicCSharpProjects\LamdaAssignmentProject\obj\Debug\net8.0\LamdaAssignmentProject.pdb
+C:\Users\kyleb\BasicCSharpProjects\LamdaAssignmentProject\obj\Debug\net8.0\LamdaAssignmentProject.genruntimeconfig.cache
+C:\Users\kyleb\BasicCSharpProjects\LamdaAssignmentProject\obj\Debug\net8.0\ref\LamdaAssignmentProject.dll
