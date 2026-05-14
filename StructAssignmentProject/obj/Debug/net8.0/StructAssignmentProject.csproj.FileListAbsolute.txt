@@ -1,0 +1,15 @@
+C:\Users\kyleb\BasicCSharpProjects\StructAssignmentProject\bin\Debug\net8.0\StructAssignmentProject.exe
+C:\Users\kyleb\BasicCSharpProjects\StructAssignmentProject\bin\Debug\net8.0\StructAssignmentProject.deps.json
+C:\Users\kyleb\BasicCSharpProjects\StructAssignmentProject\bin\Debug\net8.0\StructAssignmentProject.runtimeconfig.json
+C:\Users\kyleb\BasicCSharpProjects\StructAssignmentProject\bin\Debug\net8.0\StructAssignmentProject.dll
+C:\Users\kyleb\BasicCSharpProjects\StructAssignmentProject\bin\Debug\net8.0\StructAssignmentProject.pdb
+C:\Users\kyleb\BasicCSharpProjects\StructAssignmentProject\obj\Debug\net8.0\StructAssignmentProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyleb\BasicCSharpProjects\StructAssignmentProject\obj\Debug\net8.0\StructAssignmentProject.AssemblyInfoInputs.cache
+C:\Users\kyleb\BasicCSharpProjects\StructAssignmentProject\obj\Debug\net8.0\StructAssignmentProject.AssemblyInfo.cs
+C:\Users\kyleb\BasicCSharpProjects\StructAssignmentProject\obj\Debug\net8.0\StructAssignmentProject.csproj.CoreCompileInputs.cache
+C:\Users\kyleb\BasicCSharpProjects\StructAssignmentProject\obj\Debug\net8.0\StructAssignmentProject.sourcelink.json
+C:\Users\kyleb\BasicCSharpProjects\StructAssignmentProject\obj\Debug\net8.0\StructAssignmentProject.dll
+C:\Users\kyleb\BasicCSharpProjects\StructAssignmentProject\obj\Debug\net8.0\refint\StructAssignmentProject.dll
+C:\Users\kyleb\BasicCSharpProjects\StructAssignmentProject\obj\Debug\net8.0\StructAssignmentProject.pdb
+C:\Users\kyleb\BasicCSharpProjects\StructAssignmentProject\obj\Debug\net8.0\StructAssignmentProject.genruntimeconfig.cache
+C:\Users\kyleb\BasicCSharpProjects\StructAssignmentProject\obj\Debug\net8.0\ref\StructAssignmentProject.dll
