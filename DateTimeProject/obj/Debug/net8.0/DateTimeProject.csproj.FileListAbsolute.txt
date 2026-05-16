@@ -1,0 +1,15 @@
+C:\Users\kyleb\BasicCSharpProjects\DateTimeProject\bin\Debug\net8.0\DateTimeProject.exe
+C:\Users\kyleb\BasicCSharpProjects\DateTimeProject\bin\Debug\net8.0\DateTimeProject.deps.json
+C:\Users\kyleb\BasicCSharpProjects\DateTimeProject\bin\Debug\net8.0\DateTimeProject.runtimeconfig.json
+C:\Users\kyleb\BasicCSharpProjects\DateTimeProject\bin\Debug\net8.0\DateTimeProject.dll
+C:\Users\kyleb\BasicCSharpProjects\DateTimeProject\bin\Debug\net8.0\DateTimeProject.pdb
+C:\Users\kyleb\BasicCSharpProjects\DateTimeProject\obj\Debug\net8.0\DateTimeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyleb\BasicCSharpProjects\DateTimeProject\obj\Debug\net8.0\DateTimeProject.AssemblyInfoInputs.cache
+C:\Users\kyleb\BasicCSharpProjects\DateTimeProject\obj\Debug\net8.0\DateTimeProject.AssemblyInfo.cs
+C:\Users\kyleb\BasicCSharpProjects\DateTimeProject\obj\Debug\net8.0\DateTimeProject.csproj.CoreCompileInputs.cache
+C:\Users\kyleb\BasicCSharpProjects\DateTimeProject\obj\Debug\net8.0\DateTimeProject.sourcelink.json
+C:\Users\kyleb\BasicCSharpProjects\DateTimeProject\obj\Debug\net8.0\DateTimeProject.dll
+C:\Users\kyleb\BasicCSharpProjects\DateTimeProject\obj\Debug\net8.0\refint\DateTimeProject.dll
+C:\Users\kyleb\BasicCSharpProjects\DateTimeProject\obj\Debug\net8.0\DateTimeProject.pdb
+C:\Users\kyleb\BasicCSharpProjects\DateTimeProject\obj\Debug\net8.0\DateTimeProject.genruntimeconfig.cache
+C:\Users\kyleb\BasicCSharpProjects\DateTimeProject\obj\Debug\net8.0\ref\DateTimeProject.dll
