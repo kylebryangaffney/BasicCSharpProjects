@@ -1,0 +1,15 @@
+C:\Users\kyleb\BasicCSharpProjects\ConstructorSubmissionProject\obj\Debug\net8.0\ConstructorSubmissionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyleb\BasicCSharpProjects\ConstructorSubmissionProject\obj\Debug\net8.0\ConstructorSubmissionProject.AssemblyInfoInputs.cache
+C:\Users\kyleb\BasicCSharpProjects\ConstructorSubmissionProject\obj\Debug\net8.0\ConstructorSubmissionProject.AssemblyInfo.cs
+C:\Users\kyleb\BasicCSharpProjects\ConstructorSubmissionProject\obj\Debug\net8.0\ConstructorSubmissionProject.csproj.CoreCompileInputs.cache
+C:\Users\kyleb\BasicCSharpProjects\ConstructorSubmissionProject\obj\Debug\net8.0\ConstructorSubmissionProject.sourcelink.json
+C:\Users\kyleb\BasicCSharpProjects\ConstructorSubmissionProject\bin\Debug\net8.0\ConstructorSubmissionProject.exe
+C:\Users\kyleb\BasicCSharpProjects\ConstructorSubmissionProject\bin\Debug\net8.0\ConstructorSubmissionProject.deps.json
+C:\Users\kyleb\BasicCSharpProjects\ConstructorSubmissionProject\bin\Debug\net8.0\ConstructorSubmissionProject.runtimeconfig.json
+C:\Users\kyleb\BasicCSharpProjects\ConstructorSubmissionProject\bin\Debug\net8.0\ConstructorSubmissionProject.dll
+C:\Users\kyleb\BasicCSharpProjects\ConstructorSubmissionProject\bin\Debug\net8.0\ConstructorSubmissionProject.pdb
+C:\Users\kyleb\BasicCSharpProjects\ConstructorSubmissionProject\obj\Debug\net8.0\ConstructorSubmissionProject.dll
+C:\Users\kyleb\BasicCSharpProjects\ConstructorSubmissionProject\obj\Debug\net8.0\refint\ConstructorSubmissionProject.dll
+C:\Users\kyleb\BasicCSharpProjects\ConstructorSubmissionProject\obj\Debug\net8.0\ConstructorSubmissionProject.pdb
+C:\Users\kyleb\BasicCSharpProjects\ConstructorSubmissionProject\obj\Debug\net8.0\ConstructorSubmissionProject.genruntimeconfig.cache
+C:\Users\kyleb\BasicCSharpProjects\ConstructorSubmissionProject\obj\Debug\net8.0\ref\ConstructorSubmissionProject.dll
